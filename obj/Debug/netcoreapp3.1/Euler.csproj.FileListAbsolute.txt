@@ -1,0 +1,13 @@
+D:\gitfolder\Euler\bin\Debug\netcoreapp3.1\Euler.exe
+D:\gitfolder\Euler\bin\Debug\netcoreapp3.1\Euler.deps.json
+D:\gitfolder\Euler\bin\Debug\netcoreapp3.1\Euler.runtimeconfig.json
+D:\gitfolder\Euler\bin\Debug\netcoreapp3.1\Euler.runtimeconfig.dev.json
+D:\gitfolder\Euler\bin\Debug\netcoreapp3.1\Euler.dll
+D:\gitfolder\Euler\bin\Debug\netcoreapp3.1\Euler.pdb
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.csprojAssemblyReference.cache
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.AssemblyInfoInputs.cache
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.AssemblyInfo.cs
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.csproj.CoreCompileInputs.cache
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.dll
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.pdb
+D:\gitfolder\Euler\obj\Debug\netcoreapp3.1\Euler.genruntimeconfig.cache

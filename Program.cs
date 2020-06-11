@@ -7,7 +7,7 @@ namespace Euler
     {
         static void Main(string[] args)
         {
-            ProblemBase prob = new Problem17();
+            ProblemBase prob = new Problem22();
             Console.WriteLine("Hello World!");
             Console.WriteLine(prob.GetResult());
         }
